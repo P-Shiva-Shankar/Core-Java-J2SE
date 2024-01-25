@@ -1,4 +1,4 @@
-package ArraysArrayList;
+
 import java.util.Scanner;
 public class Input2DArray {
     public static void main(String[] args) {

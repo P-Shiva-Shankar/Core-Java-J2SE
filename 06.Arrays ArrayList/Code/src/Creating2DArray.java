@@ -1,4 +1,4 @@
-package ArraysArrayList;
+
 public class Creating2DArray {
     public static void main(String[] args) {
 //      Type-1

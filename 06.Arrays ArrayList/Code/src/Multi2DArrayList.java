@@ -1,4 +1,4 @@
-package ArraysArrayList;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 public class Multi2DArrayList {

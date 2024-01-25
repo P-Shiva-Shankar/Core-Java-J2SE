@@ -1,4 +1,4 @@
-package ArraysArrayList;
+
 public class MaxvalueArray {
     public static void main(String[] args) {
         int[] arr={1,2,8,4,5};
